@@ -14,11 +14,11 @@
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.example.addon.Addon"
+      "nl.snoworange.tpaura.Main"
     ]
   },
   "mixins": [
-    "addon-template.mixins.json"
+    "tpaura.mixins.json"
   ],
   "custom": {
     "meteor-client:color": "225,25,25"
